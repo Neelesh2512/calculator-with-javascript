@@ -1,2 +1,2 @@
 # calculator-with-javascript
-![](C:\HTML projects\calculator)
+<img src="C:\HTML projects\calculator">
